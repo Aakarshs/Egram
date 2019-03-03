@@ -15,8 +15,8 @@
   *Files that we adapt from existing code*  
   
   *Files that we do not write*  
-    node_modules  
-    .git
+    - node_modules  
+    - .git
   
   *All the other files are written by us*  
   
