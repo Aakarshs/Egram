@@ -1,6 +1,6 @@
 # Egram
 
-**Description**
+**Description**\
   To use the app visit:
   https://aakarshs.github.io/Egram/
 
@@ -9,7 +9,7 @@
 
   On the right, you can see top posters.
 
-**Documentation of the files** 
+**Documentation of the files**\ 
   *Files that we adapte from existing code*
   
   *Files that we do not write*
