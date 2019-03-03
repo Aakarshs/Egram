@@ -16,7 +16,7 @@
   
   *Files that we do not write*  
   - node_modules  
-    - .git
+  - .git
   
   *All the other files are written by us*  
   
